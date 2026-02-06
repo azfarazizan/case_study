@@ -73,7 +73,7 @@ This project transforms raw operational data into an analytics-ready dimensional
     REPLACE(order_amount_local, 'O', '0')
 ### 3. Customer
 - Have value but not column name
-- Update the column assume as currency_code
+- Update the column assume as currency_code (assumption but would clarify with stakeholders if needed)
 ### 4. Currency Normalization
 - Replace invalid character in numeric field:
   ```sql
