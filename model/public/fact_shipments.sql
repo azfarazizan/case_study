@@ -26,3 +26,16 @@ FROM shipments_stg s
 LEFT JOIN fxrates_stg fx
     ON s.currency_code = fx.quote_currency
     AND s.shipment_date = fx.rate_date
+
+
+--Ensure fxrates unique
+SELECT quote_currency, rate_date, COUNT(*)
+FROM fxrates_stg
+GROUP BY quote_currency, rate_date
+HAVING COUNT(*) > 1;
+
+--Shipment_id is not unique - might need to create composite key shipment_id + warehouse_block incase need to join
+SELECT shipment_id, COUNT(*)
+FROM shipments_stg
+GROUP BY shipment_id
+HAVING COUNT(*) > 1;
