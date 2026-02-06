@@ -64,7 +64,7 @@ This project transforms raw operational data into an analytics-ready dimensional
 ## Data Quality Fixes (Staging Layer)
 
 ### 1. Shipments Table
-- Replace invalid character in numeric field:
+- Replace invalid character in numeric field:  (assumption but would clarify with stakeholders if needed)
   ```sql
   REPLACE(order_amount_local, 'O', '0')
 ### 2. Customer tables
