@@ -1,0 +1,752 @@
+Column1,Column2,Column3,Column4,Column5,Column6,Column7
+customer_id,customer_name,customer_segment,account_tier,country_code,region,currency_code
+CUST_0285,Customer 0285,Yard,Bronze,DE,Europe,EUR
+CUST_0531,Customer 0531,Owner,Bronze,NO,Europe,NOK
+CUST_0318,Customer 0318,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0493,Customer 0493,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0228,Customer 0228,Ship Manager,Silver,CN,APAC,CNY
+CUST_0151,Customer 0151,Owner,Silver,NO,Europe,NOK
+CUST_0252,Customer 0252,Operator,Bronze,SG,APAC,SGD
+CUST_0073,Customer 0073,Ship Manager,Silver,NL,Europe,EUR
+CUST_0323,Customer 0323,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0654,Customer 0654,Agent,Bronze,AE,MEA,AED
+CUST_0441,Customer 0441,Owner,Bronze,NO,Europe,NOK
+CUST_0670,Customer 0670,Yard,Bronze,MY,APAC,MYR
+CUST_0331,Customer 0331,Owner,Bronze,NO,Europe,NOK
+CUST_0070,Customer 0070,Yard,Silver,MY,APAC,MYR
+CUST_0475,Customer 0475,Yard,Bronze,DE,Europe,EUR
+CUST_0025,Customer 0025,Yard,Gold,DE,Europe,EUR
+CUST_0391,Customer 0391,Owner,Bronze,NO,Europe,NOK
+CUST_0139,Customer 0139,Agent,Silver,ES,Europe,EUR
+CUST_0432,Customer 0432,Operator,Bronze,SG,APAC,SGD
+CUST_0426,Customer 0426,Owner,Bronze,GB,Europe,GBP
+CUST_0265,Customer 0265,Yard,Bronze,DE,Europe,EUR
+CUST_0608,Customer 0608,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0154,Customer 0154,Agent,Silver,AE,MEA,AED
+CUST_0337,Customer 0337,Operator,Bronze,US,Americas,USD
+CUST_0211,Customer 0211,Owner,Silver,NO,Europe,NOK
+CUST_0541,Customer 0541,Owner,Bronze,NO,Europe,NOK
+CUST_0348,Customer 0348,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0059,Customer 0059,Agent,Silver,ES,Europe,EUR
+CUST_0381,Customer 0381,Owner,Bronze,NO,Europe,NOK
+CUST_0131,Customer 0131,Owner,Silver,NO,Europe,NOK
+CUST_0560,Customer 0560,Yard,Bronze,MY,APAC,MYR
+CUST_0166,Customer 0166,Owner,Silver,GB,Europe,GBP
+CUST_0040,Customer 0040,Yard,Gold,MY,APAC,MYR
+CUST_0352,Customer 0352,Operator,Bronze,SG,APAC,SGD
+CUST_0423,Customer 0423,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0422,Customer 0422,Operator,Bronze,SG,APAC,SGD
+CUST_0292,Customer 0292,Operator,Bronze,SG,APAC,SGD
+CUST_0656,Customer 0656,Owner,Bronze,GB,Europe,GBP
+CUST_0524,Customer 0524,Agent,Bronze,AE,MEA,AED
+CUST_0160,Customer 0160,Yard,Silver,MY,APAC,MYR
+CUST_0115,Customer 0115,Yard,Silver,DE,Europe,EUR
+CUST_0730,Customer 0730,Yard,Bronze,MY,APAC,MYR
+CUST_0599,Customer 0599,Agent,Bronze,ES,Europe,EUR
+CUST_0586,Customer 0586,Owner,Bronze,GB,Europe,GBP
+CUST_0075,Customer 0075,Yard,Silver,DE,Europe,EUR
+CUST_0376,Customer 0376,Owner,Bronze,GB,Europe,GBP
+CUST_0671,Customer 0671,Owner,Bronze,NO,Europe,NOK
+CUST_0009,Customer 0009,Agent,Gold,ES,Europe,EUR
+CUST_0354,Customer 0354,Agent,Bronze,AE,MEA,AED
+CUST_0217,Customer 0217,Operator,Silver,US,Americas,USD
+CUST_0718,Customer 0718,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0635,Customer 0635,Yard,Bronze,DE,Europe,EUR
+CUST_0678,Customer 0678,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0510,Customer 0510,Yard,Bronze,MY,APAC,MYR
+CUST_0061,Customer 0061,Owner,Silver,NO,Europe,NOK
+CUST_0724,Customer 0724,Agent,Bronze,AE,MEA,AED
+CUST_0539,Customer 0539,Agent,Bronze,ES,Europe,EUR
+CUST_0601,Customer 0601,Owner,Bronze,NO,Europe,NOK
+CUST_0512,Customer 0512,Operator,Bronze,SG,APAC,SGD
+CUST_0708,Customer 0708,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0271,Customer 0271,Owner,Bronze,NO,Europe,NOK
+CUST_0465,Customer 0465,Yard,Bronze,DE,Europe,EUR
+CUST_0616,Customer 0616,Owner,Bronze,GB,Europe,GBP
+CUST_0418,Customer 0418,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0405,Customer 0405,Yard,Bronze,DE,Europe,EUR
+CUST_0340,Customer 0340,Yard,Bronze,MY,APAC,MYR
+CUST_0289,Customer 0289,Agent,Bronze,ES,Europe,EUR
+CUST_0052,Customer 0052,Operator,Silver,SG,APAC,SGD
+CUST_0272,Customer 0272,Operator,Bronze,SG,APAC,SGD
+CUST_0156,Customer 0156,Owner,Silver,GB,Europe,GBP
+CUST_0407,Customer 0407,Operator,Bronze,US,Americas,USD
+CUST_0377,Customer 0377,Operator,Bronze,US,Americas,USD
+CUST_0311,Customer 0311,Owner,Bronze,NO,Europe,NOK
+CUST_0157,Customer 0157,Operator,Silver,US,Americas,USD
+CUST_0431,Customer 0431,Owner,Bronze,NO,Europe,NOK
+CUST_0296,Customer 0296,Owner,Bronze,GB,Europe,GBP
+CUST_0065,Customer 0065,Yard,Silver,DE,Europe,EUR
+CUST_0580,Customer 0580,Yard,Bronze,MY,APAC,MYR
+CUST_0655,Customer 0655,Yard,Bronze,DE,Europe,EUR
+CUST_0270,Customer 0270,Yard,Bronze,MY,APAC,MYR
+CUST_0494,Customer 0494,Agent,Bronze,AE,MEA,AED
+CUST_0637,Customer 0637,Operator,Bronze,US,Americas,USD
+CUST_0394,Customer 0394,Agent,Bronze,AE,MEA,AED
+CUST_0327,Customer 0327,Operator,Bronze,US,Americas,USD
+CUST_0346,Customer 0346,Owner,Bronze,GB,Europe,GBP
+CUST_0356,Customer 0356,Owner,Bronze,GB,Europe,GBP
+CUST_0206,Customer 0206,Owner,Silver,GB,Europe,GBP
+CUST_0111,Customer 0111,Owner,Silver,NO,Europe,NOK
+CUST_0594,Customer 0594,Agent,Bronze,AE,MEA,AED
+CUST_0425,Customer 0425,Yard,Bronze,DE,Europe,EUR
+CUST_0043,Customer 0043,Ship Manager,Gold,NL,Europe,EUR
+CUST_0095,Customer 0095,Yard,Silver,DE,Europe,EUR
+CUST_0417,Customer 0417,Operator,Bronze,US,Americas,USD
+CUST_0332,Customer 0332,Operator,Bronze,SG,APAC,SGD
+CUST_0455,Customer 0455,Yard,Bronze,DE,Europe,EUR
+CUST_0675,Customer 0675,Yard,Bronze,DE,Europe,EUR
+CUST_0453,Customer 0453,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0347,Customer 0347,Operator,Bronze,US,Americas,USD
+CUST_0639,Customer 0639,Agent,Bronze,ES,Europe,EUR
+CUST_0421,Customer 0421,Owner,Bronze,NO,Europe,NOK
+CUST_0141,Customer 0141,Owner,Silver,NO,Europe,NOK
+CUST_0058,Customer 0058,Ship Manager,Silver,CN,APAC,CNY
+CUST_0610,Customer 0610,Yard,Bronze,MY,APAC,MYR
+CUST_0525,Customer 0525,Yard,Bronze,DE,Europe,EUR
+CUST_0629,Customer 0629,Agent,Bronze,ES,Europe,EUR
+CUST_0456,Customer 0456,Owner,Bronze,GB,Europe,GBP
+CUST_0305,Customer 0305,Yard,Bronze,DE,Europe,EUR
+CUST_0051,Customer 0051,Owner,Silver,NO,Europe,NOK
+CUST_0692,Customer 0692,Operator,Bronze,SG,APAC,SGD
+CUST_0291,Customer 0291,Owner,Bronze,NO,Europe,NOK
+CUST_0611,Customer 0611,Owner,Bronze,NO,Europe,NOK
+CUST_0552,Customer 0552,Operator,Bronze,SG,APAC,SGD
+CUST_0468,Customer 0468,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0229,Customer 0229,Agent,Silver,ES,Europe,EUR
+CUST_0048,Customer 0048,Ship Manager,Gold,CN,APAC,CNY
+CUST_0479,Customer 0479,Agent,Bronze,ES,Europe,EUR
+CUST_0257,Customer 0257,Operator,Bronze,US,Americas,USD
+CUST_0042,Customer 0042,Operator,Gold,SG,APAC,SGD
+CUST_0216,Customer 0216,Owner,Silver,GB,Europe,GBP
+CUST_0438,Customer 0438,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0607,Customer 0607,Operator,Bronze,US,Americas,USD
+CUST_0314,Customer 0314,Agent,Bronze,AE,MEA,AED
+CUST_0200,Customer 0200,Yard,Silver,MY,APAC,MYR
+CUST_0399,Customer 0399,Agent,Bronze,ES,Europe,EUR
+CUST_0092,Customer 0092,Operator,Silver,SG,APAC,SGD
+CUST_0350,Customer 0350,Yard,Bronze,MY,APAC,MYR
+CUST_0336,Customer 0336,Owner,Bronze,GB,Europe,GBP
+CUST_0183,Customer 0183,Ship Manager,Silver,NL,Europe,EUR
+CUST_0460,Customer 0460,Yard,Bronze,MY,APAC,MYR
+CUST_0024,Customer 0024,Agent,Gold,AE,MEA,AED
+CUST_0672,Customer 0672,Operator,Bronze,SG,APAC,SGD
+CUST_0649,Customer 0649,Agent,Bronze,ES,Europe,EUR
+CUST_0345,Customer 0345,Yard,Bronze,DE,Europe,EUR
+CUST_0012,Customer 0012,Operator,Gold,SG,APAC,SGD
+CUST_0010,Customer 0010,Yard,Gold,MY,APAC,MYR
+CUST_0641,Customer 0641,Owner,Bronze,NO,Europe,NOK
+CUST_0309,Customer 0309,Agent,Bronze,ES,Europe,EUR
+CUST_0679,Customer 0679,Agent,Bronze,ES,Europe,EUR
+CUST_0182,Customer 0182,Operator,Silver,SG,APAC,SGD
+CUST_0153,Customer 0153,Ship Manager,Silver,NL,Europe,EUR
+CUST_0386,Customer 0386,Owner,Bronze,GB,Europe,GBP
+CUST_0487,Customer 0487,Operator,Bronze,US,Americas,USD
+CUST_0482,Customer 0482,Operator,Bronze,SG,APAC,SGD
+CUST_0371,Customer 0371,Owner,Bronze,NO,Europe,NOK
+CUST_0443,Customer 0443,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0673,Customer 0673,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0645,Customer 0645,Yard,Bronze,DE,Europe,EUR
+CUST_0138,Customer 0138,Ship Manager,Silver,CN,APAC,CNY
+CUST_0002,Customer 0002,Operator,Gold,SG,APAC,SGD
+CUST_0089,Customer 0089,Agent,Silver,ES,Europe,EUR
+CUST_0643,Customer 0643,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0254,Customer 0254,Agent,Bronze,AE,MEA,AED
+CUST_0636,Customer 0636,Owner,Bronze,GB,Europe,GBP
+CUST_0609,Customer 0609,Agent,Bronze,ES,Europe,EUR
+CUST_0031,Customer 0031,Owner,Gold,NO,Europe,NOK
+CUST_0631,Customer 0631,Owner,Bronze,NO,Europe,NOK
+CUST_0370,Customer 0370,Yard,Bronze,MY,APAC,MYR
+CUST_0527,Customer 0527,Operator,Bronze,US,Americas,USD
+CUST_0737,Customer 0737,Operator,Bronze,US,Americas,USD
+CUST_0108,Customer 0108,Ship Manager,Silver,CN,APAC,CNY
+CUST_0648,Customer 0648,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0589,Customer 0589,Agent,Bronze,ES,Europe,EUR
+CUST_0461,Customer 0461,Owner,Bronze,NO,Europe,NOK
+CUST_0068,Customer 0068,Ship Manager,Silver,CN,APAC,CNY
+CUST_0736,Customer 0736,Owner,Bronze,GB,Europe,GBP
+CUST_0587,Customer 0587,Operator,Bronze,US,Americas,USD
+CUST_0682,Customer 0682,Operator,Bronze,SG,APAC,SGD
+CUST_0726,Customer 0726,Owner,Bronze,GB,Europe,GBP
+CUST_0121,Customer 0121,Owner,Silver,NO,Europe,NOK
+CUST_0120,Customer 0120,Yard,Silver,MY,APAC,MYR
+CUST_0096,Customer 0096,Owner,Silver,GB,Europe,GBP
+CUST_0486,Customer 0486,Owner,Bronze,GB,Europe,GBP
+CUST_0178,Customer 0178,Ship Manager,Silver,CN,APAC,CNY
+CUST_0172,Customer 0172,Operator,Silver,SG,APAC,SGD
+CUST_0054,Customer 0054,Agent,Silver,AE,MEA,AED
+CUST_0004,Customer 0004,Agent,Gold,AE,MEA,AED
+CUST_0707,Customer 0707,Operator,Bronze,US,Americas,USD
+CUST_0591,Customer 0591,Owner,Bronze,NO,Europe,NOK
+CUST_0039,Customer 0039,Agent,Gold,ES,Europe,EUR
+CUST_0703,Customer 0703,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0249,Customer 0249,Agent,Silver,ES,Europe,EUR
+CUST_0077,Customer 0077,Operator,Silver,US,Americas,USD
+CUST_0618,Customer 0618,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0412,Customer 0412,Operator,Bronze,SG,APAC,SGD
+CUST_0561,Customer 0561,Owner,Bronze,NO,Europe,NOK
+CUST_0366,Customer 0366,Owner,Bronze,GB,Europe,GBP
+CUST_0038,Customer 0038,Ship Manager,Gold,CN,APAC,CNY
+CUST_0149,Customer 0149,Agent,Silver,ES,Europe,EUR
+CUST_0413,Customer 0413,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0241,Customer 0241,Owner,Silver,NO,Europe,NOK
+CUST_0199,Customer 0199,Agent,Silver,ES,Europe,EUR
+CUST_0261,Customer 0261,Owner,Bronze,NO,Europe,NOK
+CUST_0701,Customer 0701,Owner,Bronze,NO,Europe,NOK
+CUST_0433,Customer 0433,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0689,Customer 0689,Agent,Bronze,ES,Europe,EUR
+CUST_0733,Customer 0733,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0731,Customer 0731,Owner,Bronze,NO,Europe,NOK
+CUST_0574,Customer 0574,Agent,Bronze,AE,MEA,AED
+CUST_0221,Customer 0221,Owner,Silver,NO,Europe,NOK
+CUST_0361,Customer 0361,Owner,Bronze,NO,Europe,NOK
+CUST_0001,Customer 0001,Owner,Gold,NO,Europe,NOK
+CUST_0444,Customer 0444,Agent,Bronze,AE,MEA,AED
+CUST_0280,Customer 0280,Yard,Bronze,MY,APAC,MYR
+CUST_0189,Customer 0189,Agent,Silver,ES,Europe,EUR
+CUST_0234,Customer 0234,Agent,Silver,AE,MEA,AED
+CUST_0019,Customer 0019,Agent,Gold,ES,Europe,EUR
+CUST_0556,Customer 0556,Owner,Bronze,GB,Europe,GBP
+CUST_0414,Customer 0414,Agent,Bronze,AE,MEA,AED
+CUST_0379,Customer 0379,Agent,Bronze,ES,Europe,EUR
+CUST_0583,Customer 0583,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0170,Customer 0170,Yard,Silver,MY,APAC,MYR
+CUST_0551,Customer 0551,Owner,Bronze,NO,Europe,NOK
+CUST_0326,Customer 0326,Owner,Bronze,GB,Europe,GBP
+CUST_0158,Customer 0158,Ship Manager,Silver,CN,APAC,CNY
+CUST_0383,Customer 0383,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0212,Customer 0212,Operator,Silver,SG,APAC,SGD
+CUST_0343,Customer 0343,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0435,Customer 0435,Yard,Bronze,DE,Europe,EUR
+CUST_0079,Customer 0079,Agent,Silver,ES,Europe,EUR
+CUST_0504,Customer 0504,Agent,Bronze,AE,MEA,AED
+CUST_0498,Customer 0498,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0251,Customer 0251,Owner,Bronze,NO,Europe,NOK
+CUST_0034,Customer 0034,Agent,Gold,AE,MEA,AED
+CUST_0647,Customer 0647,Operator,Bronze,US,Americas,USD
+CUST_0106,Customer 0106,Owner,Silver,GB,Europe,GBP
+CUST_0365,Customer 0365,Yard,Bronze,DE,Europe,EUR
+CUST_0263,Customer 0263,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0218,Customer 0218,Ship Manager,Silver,CN,APAC,CNY
+CUST_0056,Customer 0056,Owner,Silver,GB,Europe,GBP
+CUST_0452,Customer 0452,Operator,Bronze,SG,APAC,SGD
+CUST_0133,Customer 0133,Ship Manager,Silver,NL,Europe,EUR
+CUST_0528,Customer 0528,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0440,Customer 0440,Yard,Bronze,MY,APAC,MYR
+CUST_0738,Customer 0738,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0190,Customer 0190,Yard,Silver,MY,APAC,MYR
+CUST_0175,Customer 0175,Yard,Silver,DE,Europe,EUR
+CUST_0699,Customer 0699,Agent,Bronze,ES,Europe,EUR
+CUST_0600,Customer 0600,Yard,Bronze,MY,APAC,MYR
+CUST_0060,Customer 0060,Yard,Silver,MY,APAC,MYR
+CUST_0290,Customer 0290,Yard,Bronze,MY,APAC,MYR
+CUST_0185,Customer 0185,Yard,Silver,DE,Europe,EUR
+CUST_0395,Customer 0395,Yard,Bronze,DE,Europe,EUR
+CUST_0416,Customer 0416,Owner,Bronze,GB,Europe,GBP
+CUST_0247,Customer 0247,Operator,Silver,US,Americas,USD
+CUST_0094,Customer 0094,Agent,Silver,AE,MEA,AED
+CUST_0509,Customer 0509,Agent,Bronze,ES,Europe,EUR
+CUST_0385,Customer 0385,Yard,Bronze,DE,Europe,EUR
+CUST_0302,Customer 0302,Operator,Bronze,SG,APAC,SGD
+CUST_0064,Customer 0064,Agent,Silver,AE,MEA,AED
+CUST_0688,Customer 0688,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0576,Customer 0576,Owner,Bronze,GB,Europe,GBP
+CUST_0300,Customer 0300,Yard,Bronze,MY,APAC,MYR
+CUST_0204,Customer 0204,Agent,Silver,AE,MEA,AED
+CUST_0540,Customer 0540,Yard,Bronze,MY,APAC,MYR
+CUST_0706,Customer 0706,Owner,Bronze,GB,Europe,GBP
+CUST_0506,Customer 0506,Owner,Bronze,GB,Europe,GBP
+CUST_0150,Customer 0150,Yard,Silver,MY,APAC,MYR
+CUST_0595,Customer 0595,Yard,Bronze,DE,Europe,EUR
+CUST_0273,Customer 0273,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0063,Customer 0063,Ship Manager,Silver,NL,Europe,EUR
+CUST_0627,Customer 0627,Operator,Bronze,US,Americas,USD
+CUST_0129,Customer 0129,Agent,Silver,ES,Europe,EUR
+CUST_0041,Customer 0041,Owner,Gold,NO,Europe,NOK
+CUST_0279,Customer 0279,Agent,Bronze,ES,Europe,EUR
+CUST_0605,Customer 0605,Yard,Bronze,DE,Europe,EUR
+CUST_0578,Customer 0578,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0375,Customer 0375,Yard,Bronze,DE,Europe,EUR
+CUST_0445,Customer 0445,Yard,Bronze,DE,Europe,EUR
+CUST_0534,Customer 0534,Agent,Bronze,AE,MEA,AED
+CUST_0735,Customer 0735,Yard,Bronze,DE,Europe,EUR
+CUST_0102,Customer 0102,Operator,Silver,SG,APAC,SGD
+CUST_0114,Customer 0114,Agent,Silver,AE,MEA,AED
+CUST_0266,Customer 0266,Owner,Bronze,GB,Europe,GBP
+CUST_0132,Customer 0132,Operator,Silver,SG,APAC,SGD
+CUST_0612,Customer 0612,Operator,Bronze,SG,APAC,SGD
+CUST_0233,Customer 0233,Ship Manager,Silver,NL,Europe,EUR
+CUST_0105,Customer 0105,Yard,Silver,DE,Europe,EUR
+CUST_0696,Customer 0696,Owner,Bronze,GB,Europe,GBP
+CUST_0597,Customer 0597,Operator,Bronze,US,Americas,USD
+CUST_0495,Customer 0495,Yard,Bronze,DE,Europe,EUR
+CUST_0333,Customer 0333,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0188,Customer 0188,Ship Manager,Silver,CN,APAC,CNY
+CUST_0098,Customer 0098,Ship Manager,Silver,CN,APAC,CNY
+CUST_0476,Customer 0476,Owner,Bronze,GB,Europe,GBP
+CUST_0307,Customer 0307,Operator,Bronze,US,Americas,USD
+CUST_0722,Customer 0722,Operator,Bronze,SG,APAC,SGD
+CUST_0646,Customer 0646,Owner,Bronze,GB,Europe,GBP
+CUST_0222,Customer 0222,Operator,Silver,SG,APAC,SGD
+CUST_0268,Customer 0268,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0614,Customer 0614,Agent,Bronze,AE,MEA,AED
+CUST_0584,Customer 0584,Agent,Bronze,AE,MEA,AED
+CUST_0748,Customer 0748,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0470,Customer 0470,Yard,Bronze,MY,APAC,MYR
+CUST_0246,Customer 0246,Owner,Silver,GB,Europe,GBP
+CUST_0533,Customer 0533,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0513,Customer 0513,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0026,Customer 0026,Owner,Gold,GB,Europe,GBP
+CUST_0582,Customer 0582,Operator,Bronze,SG,APAC,SGD
+CUST_0434,Customer 0434,Agent,Bronze,AE,MEA,AED
+CUST_0055,Customer 0055,Yard,Silver,DE,Europe,EUR
+CUST_0564,Customer 0564,Agent,Bronze,AE,MEA,AED
+CUST_0398,Customer 0398,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0624,Customer 0624,Agent,Bronze,AE,MEA,AED
+CUST_0674,Customer 0674,Agent,Bronze,AE,MEA,AED
+CUST_0565,Customer 0565,Yard,Bronze,DE,Europe,EUR
+CUST_0634,Customer 0634,Agent,Bronze,AE,MEA,AED
+CUST_0496,Customer 0496,Owner,Bronze,GB,Europe,GBP
+CUST_0537,Customer 0537,Operator,Bronze,US,Americas,USD
+CUST_0224,Customer 0224,Agent,Silver,AE,MEA,AED
+CUST_0179,Customer 0179,Agent,Silver,ES,Europe,EUR
+CUST_0142,Customer 0142,Operator,Silver,SG,APAC,SGD
+CUST_0140,Customer 0140,Yard,Silver,MY,APAC,MYR
+CUST_0518,Customer 0518,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0118,Customer 0118,Ship Manager,Silver,CN,APAC,CNY
+CUST_0687,Customer 0687,Operator,Bronze,US,Americas,USD
+CUST_0123,Customer 0123,Ship Manager,Silver,NL,Europe,EUR
+CUST_0420,Customer 0420,Yard,Bronze,MY,APAC,MYR
+CUST_0306,Customer 0306,Owner,Bronze,GB,Europe,GBP
+CUST_0147,Customer 0147,Operator,Silver,US,Americas,USD
+CUST_0017,Customer 0017,Operator,Gold,US,Americas,USD
+CUST_0628,Customer 0628,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0210,Customer 0210,Yard,Silver,MY,APAC,MYR
+CUST_0358,Customer 0358,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0555,Customer 0555,Yard,Bronze,DE,Europe,EUR
+CUST_0368,Customer 0368,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0320,Customer 0320,Yard,Bronze,MY,APAC,MYR
+CUST_0205,Customer 0205,Yard,Silver,DE,Europe,EUR
+CUST_0538,Customer 0538,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0369,Customer 0369,Agent,Bronze,ES,Europe,EUR
+CUST_0187,Customer 0187,Operator,Silver,US,Americas,USD
+CUST_0632,Customer 0632,Operator,Bronze,SG,APAC,SGD
+CUST_0191,Customer 0191,Owner,Silver,NO,Europe,NOK
+CUST_0514,Customer 0514,Agent,Bronze,AE,MEA,AED
+CUST_0341,Customer 0341,Owner,Bronze,NO,Europe,NOK
+CUST_0638,Customer 0638,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0219,Customer 0219,Agent,Silver,ES,Europe,EUR
+CUST_0203,Customer 0203,Ship Manager,Silver,NL,Europe,EUR
+CUST_0750,Customer 0750,Yard,Bronze,MY,APAC,MYR
+CUST_0543,Customer 0543,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0076,Customer 0076,Owner,Silver,GB,Europe,GBP
+CUST_0220,Customer 0220,Yard,Silver,MY,APAC,MYR
+CUST_0186,Customer 0186,Owner,Silver,GB,Europe,GBP
+CUST_0410,Customer 0410,Yard,Bronze,MY,APAC,MYR
+CUST_0029,Customer 0029,Agent,Gold,ES,Europe,EUR
+CUST_0457,Customer 0457,Operator,Bronze,US,Americas,USD
+CUST_0355,Customer 0355,Yard,Bronze,DE,Europe,EUR
+CUST_0500,Customer 0500,Yard,Bronze,MY,APAC,MYR
+CUST_0176,Customer 0176,Owner,Silver,GB,Europe,GBP
+CUST_0016,Customer 0016,Owner,Gold,GB,Europe,GBP
+CUST_0015,Customer 0015,Yard,Gold,DE,Europe,EUR
+CUST_0335,Customer 0335,Yard,Bronze,DE,Europe,EUR
+CUST_0463,Customer 0463,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0683,Customer 0683,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0227,Customer 0227,Operator,Silver,US,Americas,USD
+CUST_0225,Customer 0225,Yard,Silver,DE,Europe,EUR
+CUST_0072,Customer 0072,Operator,Silver,SG,APAC,SGD
+CUST_0446,Customer 0446,Owner,Bronze,GB,Europe,GBP
+CUST_0402,Customer 0402,Operator,Bronze,SG,APAC,SGD
+CUST_0568,Customer 0568,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0502,Customer 0502,Operator,Bronze,SG,APAC,SGD
+CUST_0007,Customer 0007,Operator,Gold,US,Americas,USD
+CUST_0727,Customer 0727,Operator,Bronze,US,Americas,USD
+CUST_0097,Customer 0097,Operator,Silver,US,Americas,USD
+CUST_0284,Customer 0284,Agent,Bronze,AE,MEA,AED
+CUST_0173,Customer 0173,Ship Manager,Silver,NL,Europe,EUR
+CUST_0112,Customer 0112,Operator,Silver,SG,APAC,SGD
+CUST_0171,Customer 0171,Owner,Silver,NO,Europe,NOK
+CUST_0082,Customer 0082,Operator,Silver,SG,APAC,SGD
+CUST_0505,Customer 0505,Yard,Bronze,DE,Europe,EUR
+CUST_0053,Customer 0053,Ship Manager,Silver,NL,Europe,EUR
+CUST_0621,Customer 0621,Owner,Bronze,NO,Europe,NOK
+CUST_0484,Customer 0484,Agent,Bronze,AE,MEA,AED
+CUST_0650,Customer 0650,Yard,Bronze,MY,APAC,MYR
+CUST_0201,Customer 0201,Owner,Silver,NO,Europe,NOK
+CUST_0192,Customer 0192,Operator,Silver,SG,APAC,SGD
+CUST_0403,Customer 0403,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0459,Customer 0459,Agent,Bronze,ES,Europe,EUR
+CUST_0745,Customer 0745,Yard,Bronze,DE,Europe,EUR
+CUST_0168,Customer 0168,Ship Manager,Silver,CN,APAC,CNY
+CUST_0364,Customer 0364,Agent,Bronze,AE,MEA,AED
+CUST_0159,Customer 0159,Agent,Silver,ES,Europe,EUR
+CUST_0297,Customer 0297,Operator,Bronze,US,Americas,USD
+CUST_0473,Customer 0473,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0165,Customer 0165,Yard,Silver,DE,Europe,EUR
+CUST_0021,Customer 0021,Owner,Gold,NO,Europe,NOK
+CUST_0447,Customer 0447,Operator,Bronze,US,Americas,USD
+CUST_0100,Customer 0100,Yard,Silver,MY,APAC,MYR
+CUST_0267,Customer 0267,Operator,Bronze,US,Americas,USD
+CUST_0429,Customer 0429,Agent,Bronze,ES,Europe,EUR
+CUST_0602,Customer 0602,Operator,Bronze,SG,APAC,SGD
+CUST_0604,Customer 0604,Agent,Bronze,AE,MEA,AED
+CUST_0360,Customer 0360,Yard,Bronze,MY,APAC,MYR
+CUST_0526,Customer 0526,Owner,Bronze,GB,Europe,GBP
+CUST_0501,Customer 0501,Owner,Bronze,NO,Europe,NOK
+CUST_0677,Customer 0677,Operator,Bronze,US,Americas,USD
+CUST_0681,Customer 0681,Owner,Bronze,NO,Europe,NOK
+CUST_0393,Customer 0393,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0119,Customer 0119,Agent,Silver,ES,Europe,EUR
+CUST_0693,Customer 0693,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0668,Customer 0668,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0577,Customer 0577,Operator,Bronze,US,Americas,USD
+CUST_0084,Customer 0084,Agent,Silver,AE,MEA,AED
+CUST_0680,Customer 0680,Yard,Bronze,MY,APAC,MYR
+CUST_0558,Customer 0558,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0287,Customer 0287,Operator,Bronze,US,Americas,USD
+CUST_0427,Customer 0427,Operator,Bronze,US,Americas,USD
+CUST_0193,Customer 0193,Ship Manager,Silver,NL,Europe,EUR
+CUST_0137,Customer 0137,Operator,Silver,US,Americas,USD
+CUST_0230,Customer 0230,Yard,Silver,MY,APAC,MYR
+CUST_0728,Customer 0728,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0415,Customer 0415,Yard,Bronze,DE,Europe,EUR
+CUST_0226,Customer 0226,Owner,Silver,GB,Europe,GBP
+CUST_0725,Customer 0725,Yard,Bronze,DE,Europe,EUR
+CUST_0194,Customer 0194,Agent,Silver,AE,MEA,AED
+CUST_0419,Customer 0419,Agent,Bronze,ES,Europe,EUR
+CUST_0145,Customer 0145,Yard,Silver,DE,Europe,EUR
+CUST_0710,Customer 0710,Yard,Bronze,MY,APAC,MYR
+CUST_0262,Customer 0262,Operator,Bronze,SG,APAC,SGD
+CUST_0250,Customer 0250,Yard,Silver,MY,APAC,MYR
+CUST_0087,Customer 0087,Operator,Silver,US,Americas,USD
+CUST_0566,Customer 0566,Owner,Bronze,GB,Europe,GBP
+CUST_0529,Customer 0529,Agent,Bronze,ES,Europe,EUR
+CUST_0353,Customer 0353,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0515,Customer 0515,Yard,Bronze,DE,Europe,EUR
+CUST_0014,Customer 0014,Agent,Gold,AE,MEA,AED
+CUST_0278,Customer 0278,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0003,Customer 0003,Ship Manager,Gold,NL,Europe,EUR
+CUST_0662,Customer 0662,Operator,Bronze,SG,APAC,SGD
+CUST_0590,Customer 0590,Yard,Bronze,MY,APAC,MYR
+CUST_0317,Customer 0317,Operator,Bronze,US,Americas,USD
+CUST_0585,Customer 0585,Yard,Bronze,DE,Europe,EUR
+CUST_0208,Customer 0208,Ship Manager,Silver,CN,APAC,CNY
+CUST_0088,Customer 0088,Ship Manager,Silver,CN,APAC,CNY
+CUST_0633,Customer 0633,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0657,Customer 0657,Operator,Bronze,US,Americas,USD
+CUST_0559,Customer 0559,Agent,Bronze,ES,Europe,EUR
+CUST_0237,Customer 0237,Operator,Silver,US,Americas,USD
+CUST_0116,Customer 0116,Owner,Silver,GB,Europe,GBP
+CUST_0436,Customer 0436,Owner,Bronze,GB,Europe,GBP
+CUST_0406,Customer 0406,Owner,Bronze,GB,Europe,GBP
+CUST_0704,Customer 0704,Agent,Bronze,AE,MEA,AED
+CUST_0570,Customer 0570,Yard,Bronze,MY,APAC,MYR
+CUST_0467,Customer 0467,Operator,Bronze,US,Americas,USD
+CUST_0669,Customer 0669,Agent,Bronze,ES,Europe,EUR
+CUST_0301,Customer 0301,Owner,Bronze,NO,Europe,NOK
+CUST_0258,Customer 0258,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0164,Customer 0164,Agent,Silver,AE,MEA,AED
+CUST_0744,Customer 0744,Agent,Bronze,AE,MEA,AED
+CUST_0269,Customer 0269,Agent,Bronze,ES,Europe,EUR
+CUST_0492,Customer 0492,Operator,Bronze,SG,APAC,SGD
+CUST_0503,Customer 0503,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0090,Customer 0090,Yard,Silver,MY,APAC,MYR
+CUST_0180,Customer 0180,Yard,Silver,MY,APAC,MYR
+CUST_0177,Customer 0177,Operator,Silver,US,Americas,USD
+CUST_0749,Customer 0749,Agent,Bronze,ES,Europe,EUR
+CUST_0684,Customer 0684,Agent,Bronze,AE,MEA,AED
+CUST_0596,Customer 0596,Owner,Bronze,GB,Europe,GBP
+CUST_0660,Customer 0660,Yard,Bronze,MY,APAC,MYR
+CUST_0303,Customer 0303,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0288,Customer 0288,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0715,Customer 0715,Yard,Bronze,DE,Europe,EUR
+CUST_0532,Customer 0532,Operator,Bronze,SG,APAC,SGD
+CUST_0294,Customer 0294,Agent,Bronze,AE,MEA,AED
+CUST_0716,Customer 0716,Owner,Bronze,GB,Europe,GBP
+CUST_0630,Customer 0630,Yard,Bronze,MY,APAC,MYR
+CUST_0099,Customer 0099,Agent,Silver,ES,Europe,EUR
+CUST_0382,Customer 0382,Operator,Bronze,SG,APAC,SGD
+CUST_0044,Customer 0044,Agent,Gold,AE,MEA,AED
+CUST_0550,Customer 0550,Yard,Bronze,MY,APAC,MYR
+CUST_0136,Customer 0136,Owner,Silver,GB,Europe,GBP
+CUST_0104,Customer 0104,Agent,Silver,AE,MEA,AED
+CUST_0428,Customer 0428,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0334,Customer 0334,Agent,Bronze,AE,MEA,AED
+CUST_0516,Customer 0516,Owner,Bronze,GB,Europe,GBP
+CUST_0161,Customer 0161,Owner,Silver,NO,Europe,NOK
+CUST_0351,Customer 0351,Owner,Bronze,NO,Europe,NOK
+CUST_0588,Customer 0588,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0454,Customer 0454,Agent,Bronze,AE,MEA,AED
+CUST_0409,Customer 0409,Agent,Bronze,ES,Europe,EUR
+CUST_0174,Customer 0174,Agent,Silver,AE,MEA,AED
+CUST_0497,Customer 0497,Operator,Bronze,US,Americas,USD
+CUST_0357,Customer 0357,Operator,Bronze,US,Americas,USD
+CUST_0676,Customer 0676,Owner,Bronze,GB,Europe,GBP
+CUST_0293,Customer 0293,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0304,Customer 0304,Agent,Bronze,AE,MEA,AED
+CUST_0046,Customer 0046,Owner,Gold,GB,Europe,GBP
+CUST_0283,Customer 0283,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0367,Customer 0367,Operator,Bronze,US,Americas,USD
+CUST_0569,Customer 0569,Agent,Bronze,ES,Europe,EUR
+CUST_0308,Customer 0308,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0259,Customer 0259,Agent,Bronze,ES,Europe,EUR
+CUST_0213,Customer 0213,Ship Manager,Silver,NL,Europe,EUR
+CUST_0169,Customer 0169,Agent,Silver,ES,Europe,EUR
+CUST_0542,Customer 0542,Operator,Bronze,SG,APAC,SGD
+CUST_0625,Customer 0625,Yard,Bronze,DE,Europe,EUR
+CUST_0374,Customer 0374,Agent,Bronze,AE,MEA,AED
+CUST_0521,Customer 0521,Owner,Bronze,NO,Europe,NOK
+CUST_0739,Customer 0739,Agent,Bronze,ES,Europe,EUR
+CUST_0113,Customer 0113,Ship Manager,Silver,NL,Europe,EUR
+CUST_0729,Customer 0729,Agent,Bronze,ES,Europe,EUR
+CUST_0397,Customer 0397,Operator,Bronze,US,Americas,USD
+CUST_0240,Customer 0240,Yard,Silver,MY,APAC,MYR
+CUST_0214,Customer 0214,Agent,Silver,AE,MEA,AED
+CUST_0028,Customer 0028,Ship Manager,Gold,CN,APAC,CNY
+CUST_0554,Customer 0554,Agent,Bronze,AE,MEA,AED
+CUST_0698,Customer 0698,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0659,Customer 0659,Agent,Bronze,ES,Europe,EUR
+CUST_0711,Customer 0711,Owner,Bronze,NO,Europe,NOK
+CUST_0045,Customer 0045,Yard,Gold,DE,Europe,EUR
+CUST_0163,Customer 0163,Ship Manager,Silver,NL,Europe,EUR
+CUST_0606,Customer 0606,Owner,Bronze,GB,Europe,GBP
+CUST_0523,Customer 0523,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0622,Customer 0622,Operator,Bronze,SG,APAC,SGD
+CUST_0295,Customer 0295,Yard,Bronze,DE,Europe,EUR
+CUST_0404,Customer 0404,Agent,Bronze,AE,MEA,AED
+CUST_0530,Customer 0530,Yard,Bronze,MY,APAC,MYR
+CUST_0642,Customer 0642,Operator,Bronze,SG,APAC,SGD
+CUST_0430,Customer 0430,Yard,Bronze,MY,APAC,MYR
+CUST_0050,Customer 0050,Yard,Gold,MY,APAC,MYR
+CUST_0695,Customer 0695,Yard,Bronze,DE,Europe,EUR
+CUST_0720,Customer 0720,Yard,Bronze,MY,APAC,MYR
+CUST_0281,Customer 0281,Owner,Bronze,NO,Europe,NOK
+CUST_0125,Customer 0125,Yard,Silver,DE,Europe,EUR
+CUST_0223,Customer 0223,Ship Manager,Silver,NL,Europe,EUR
+CUST_0181,Customer 0181,Owner,Silver,NO,Europe,NOK
+CUST_0135,Customer 0135,Yard,Silver,DE,Europe,EUR
+CUST_0110,Customer 0110,Yard,Silver,MY,APAC,MYR
+CUST_0321,Customer 0321,Owner,Bronze,NO,Europe,NOK
+CUST_0651,Customer 0651,Owner,Bronze,NO,Europe,NOK
+CUST_0329,Customer 0329,Agent,Bronze,ES,Europe,EUR
+CUST_0714,Customer 0714,Agent,Bronze,AE,MEA,AED
+CUST_0572,Customer 0572,Operator,Bronze,SG,APAC,SGD
+CUST_0471,Customer 0471,Owner,Bronze,NO,Europe,NOK
+CUST_0517,Customer 0517,Operator,Bronze,US,Americas,USD
+CUST_0162,Customer 0162,Operator,Silver,SG,APAC,SGD
+CUST_0694,Customer 0694,Agent,Bronze,AE,MEA,AED
+CUST_0664,Customer 0664,Agent,Bronze,AE,MEA,AED
+CUST_0396,Customer 0396,Owner,Bronze,GB,Europe,GBP
+CUST_0373,Customer 0373,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0339,Customer 0339,Agent,Bronze,ES,Europe,EUR
+CUST_0069,Customer 0069,Agent,Silver,ES,Europe,EUR
+CUST_0746,Customer 0746,Owner,Bronze,GB,Europe,GBP
+CUST_0480,Customer 0480,Yard,Bronze,MY,APAC,MYR
+CUST_0747,Customer 0747,Operator,Bronze,US,Americas,USD
+CUST_0390,Customer 0390,Yard,Bronze,MY,APAC,MYR
+CUST_0721,Customer 0721,Owner,Bronze,NO,Europe,NOK
+CUST_0074,Customer 0074,Agent,Silver,AE,MEA,AED
+CUST_0359,Customer 0359,Agent,Bronze,ES,Europe,EUR
+CUST_0109,Customer 0109,Agent,Silver,ES,Europe,EUR
+CUST_0209,Customer 0209,Agent,Silver,ES,Europe,EUR
+CUST_0567,Customer 0567,Operator,Bronze,US,Americas,USD
+CUST_0130,Customer 0130,Yard,Silver,MY,APAC,MYR
+CUST_0571,Customer 0571,Owner,Bronze,NO,Europe,NOK
+CUST_0248,Customer 0248,Ship Manager,Silver,CN,APAC,CNY
+CUST_0312,Customer 0312,Operator,Bronze,SG,APAC,SGD
+CUST_0144,Customer 0144,Agent,Silver,AE,MEA,AED
+CUST_0275,Customer 0275,Yard,Bronze,DE,Europe,EUR
+CUST_0466,Customer 0466,Owner,Bronze,GB,Europe,GBP
+CUST_0242,Customer 0242,Operator,Silver,SG,APAC,SGD
+CUST_0388,Customer 0388,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0020,Customer 0020,Yard,Gold,MY,APAC,MYR
+CUST_0702,Customer 0702,Operator,Bronze,SG,APAC,SGD
+CUST_0081,Customer 0081,Owner,Silver,NO,Europe,NOK
+CUST_0623,Customer 0623,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0067,Customer 0067,Operator,Silver,US,Americas,USD
+CUST_0231,Customer 0231,Owner,Silver,NO,Europe,NOK
+CUST_0685,Customer 0685,Yard,Bronze,DE,Europe,EUR
+CUST_0522,Customer 0522,Operator,Bronze,SG,APAC,SGD
+CUST_0299,Customer 0299,Agent,Bronze,ES,Europe,EUR
+CUST_0640,Customer 0640,Yard,Bronze,MY,APAC,MYR
+CUST_0080,Customer 0080,Yard,Silver,MY,APAC,MYR
+CUST_0665,Customer 0665,Yard,Bronze,DE,Europe,EUR
+CUST_0472,Customer 0472,Operator,Bronze,SG,APAC,SGD
+CUST_0344,Customer 0344,Agent,Bronze,AE,MEA,AED
+CUST_0232,Customer 0232,Operator,Silver,SG,APAC,SGD
+CUST_0342,Customer 0342,Operator,Bronze,SG,APAC,SGD
+CUST_0462,Customer 0462,Operator,Bronze,SG,APAC,SGD
+CUST_0126,Customer 0126,Owner,Silver,GB,Europe,GBP
+CUST_0022,Customer 0022,Operator,Gold,SG,APAC,SGD
+CUST_0319,Customer 0319,Agent,Bronze,ES,Europe,EUR
+CUST_0286,Customer 0286,Owner,Bronze,GB,Europe,GBP
+CUST_0083,Customer 0083,Ship Manager,Silver,NL,Europe,EUR
+CUST_0005,Customer 0005,Yard,Gold,DE,Europe,EUR
+CUST_0483,Customer 0483,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0387,Customer 0387,Operator,Bronze,US,Americas,USD
+CUST_0401,Customer 0401,Owner,Bronze,NO,Europe,NOK
+CUST_0085,Customer 0085,Yard,Silver,DE,Europe,EUR
+CUST_0437,Customer 0437,Operator,Bronze,US,Americas,USD
+CUST_0107,Customer 0107,Operator,Silver,US,Americas,USD
+CUST_0372,Customer 0372,Operator,Bronze,SG,APAC,SGD
+CUST_0238,Customer 0238,Ship Manager,Silver,CN,APAC,CNY
+CUST_0741,Customer 0741,Owner,Bronze,NO,Europe,NOK
+CUST_0613,Customer 0613,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0709,Customer 0709,Agent,Bronze,ES,Europe,EUR
+CUST_0499,Customer 0499,Agent,Bronze,ES,Europe,EUR
+CUST_0478,Customer 0478,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0691,Customer 0691,Owner,Bronze,NO,Europe,NOK
+CUST_0091,Customer 0091,Owner,Silver,NO,Europe,NOK
+CUST_0617,Customer 0617,Operator,Bronze,US,Americas,USD
+CUST_0598,Customer 0598,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0448,Customer 0448,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0128,Customer 0128,Ship Manager,Silver,CN,APAC,CNY
+CUST_0717,Customer 0717,Operator,Bronze,US,Americas,USD
+CUST_0474,Customer 0474,Agent,Bronze,AE,MEA,AED
+CUST_0202,Customer 0202,Operator,Silver,SG,APAC,SGD
+CUST_0328,Customer 0328,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0037,Customer 0037,Operator,Gold,US,Americas,USD
+CUST_0581,Customer 0581,Owner,Bronze,NO,Europe,NOK
+CUST_0458,Customer 0458,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0520,Customer 0520,Yard,Bronze,MY,APAC,MYR
+CUST_0066,Customer 0066,Owner,Silver,GB,Europe,GBP
+CUST_0244,Customer 0244,Agent,Silver,AE,MEA,AED
+CUST_0508,Customer 0508,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0491,Customer 0491,Owner,Bronze,NO,Europe,NOK
+CUST_0124,Customer 0124,Agent,Silver,AE,MEA,AED
+CUST_0117,Customer 0117,Operator,Silver,US,Americas,USD
+CUST_0392,Customer 0392,Operator,Bronze,SG,APAC,SGD
+CUST_0155,Customer 0155,Yard,Silver,DE,Europe,EUR
+CUST_0207,Customer 0207,Operator,Silver,US,Americas,USD
+CUST_0661,Customer 0661,Owner,Bronze,NO,Europe,NOK
+CUST_0049,Customer 0049,Agent,Gold,ES,Europe,EUR
+CUST_0298,Customer 0298,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0239,Customer 0239,Agent,Silver,ES,Europe,EUR
+CUST_0282,Customer 0282,Operator,Bronze,SG,APAC,SGD
+CUST_0553,Customer 0553,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0256,Customer 0256,Owner,Bronze,GB,Europe,GBP
+CUST_0235,Customer 0235,Yard,Silver,DE,Europe,EUR
+CUST_0122,Customer 0122,Operator,Silver,SG,APAC,SGD
+CUST_0023,Customer 0023,Ship Manager,Gold,NL,Europe,EUR
+CUST_0697,Customer 0697,Operator,Bronze,US,Americas,USD
+CUST_0546,Customer 0546,Owner,Bronze,GB,Europe,GBP
+CUST_0035,Customer 0035,Yard,Gold,DE,Europe,EUR
+CUST_0549,Customer 0549,Agent,Bronze,ES,Europe,EUR
+CUST_0481,Customer 0481,Owner,Bronze,NO,Europe,NOK
+CUST_0615,Customer 0615,Yard,Bronze,DE,Europe,EUR
+CUST_0450,Customer 0450,Yard,Bronze,MY,APAC,MYR
+CUST_0734,Customer 0734,Agent,Bronze,AE,MEA,AED
+CUST_0557,Customer 0557,Operator,Bronze,US,Americas,USD
+CUST_0548,Customer 0548,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0184,Customer 0184,Agent,Silver,AE,MEA,AED
+CUST_0723,Customer 0723,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0740,Customer 0740,Yard,Bronze,MY,APAC,MYR
+CUST_0477,Customer 0477,Operator,Bronze,US,Americas,USD
+CUST_0057,Customer 0057,Operator,Silver,US,Americas,USD
+CUST_0006,Customer 0006,Owner,Gold,GB,Europe,GBP
+CUST_0033,Customer 0033,Ship Manager,Gold,NL,Europe,EUR
+CUST_0603,Customer 0603,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0507,Customer 0507,Operator,Bronze,US,Americas,USD
+CUST_0195,Customer 0195,Yard,Silver,DE,Europe,EUR
+CUST_0686,Customer 0686,Owner,Bronze,GB,Europe,GBP
+CUST_0101,Customer 0101,Owner,Silver,NO,Europe,NOK
+CUST_0742,Customer 0742,Operator,Bronze,SG,APAC,SGD
+CUST_0260,Customer 0260,Yard,Bronze,MY,APAC,MYR
+CUST_0255,Customer 0255,Yard,Bronze,DE,Europe,EUR
+CUST_0093,Customer 0093,Ship Manager,Silver,NL,Europe,EUR
+CUST_0313,Customer 0313,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0143,Customer 0143,Ship Manager,Silver,NL,Europe,EUR
+CUST_0310,Customer 0310,Yard,Bronze,MY,APAC,MYR
+CUST_0732,Customer 0732,Operator,Bronze,SG,APAC,SGD
+CUST_0653,Customer 0653,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0197,Customer 0197,Operator,Silver,US,Americas,USD
+CUST_0008,Customer 0008,Ship Manager,Gold,CN,APAC,CNY
+CUST_0062,Customer 0062,Operator,Silver,SG,APAC,SGD
+CUST_0712,Customer 0712,Operator,Bronze,SG,APAC,SGD
+CUST_0018,Customer 0018,Ship Manager,Gold,CN,APAC,CNY
+CUST_0719,Customer 0719,Agent,Bronze,ES,Europe,EUR
+CUST_0743,Customer 0743,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0442,Customer 0442,Operator,Bronze,SG,APAC,SGD
+CUST_0547,Customer 0547,Operator,Bronze,US,Americas,USD
+CUST_0620,Customer 0620,Yard,Bronze,MY,APAC,MYR
+CUST_0489,Customer 0489,Agent,Bronze,ES,Europe,EUR
+CUST_0490,Customer 0490,Yard,Bronze,MY,APAC,MYR
+CUST_0011,Customer 0011,Owner,Gold,NO,Europe,NOK
+CUST_0424,Customer 0424,Agent,Bronze,AE,MEA,AED
+CUST_0593,Customer 0593,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0032,Customer 0032,Operator,Gold,SG,APAC,SGD
+CUST_0536,Customer 0536,Owner,Bronze,GB,Europe,GBP
+CUST_0579,Customer 0579,Agent,Bronze,ES,Europe,EUR
+CUST_0449,Customer 0449,Agent,Bronze,ES,Europe,EUR
+CUST_0349,Customer 0349,Agent,Bronze,ES,Europe,EUR
+CUST_0439,Customer 0439,Agent,Bronze,ES,Europe,EUR
+CUST_0362,Customer 0362,Operator,Bronze,SG,APAC,SGD
+CUST_0658,Customer 0658,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0274,Customer 0274,Agent,Bronze,AE,MEA,AED
+CUST_0215,Customer 0215,Yard,Silver,DE,Europe,EUR
+CUST_0667,Customer 0667,Operator,Bronze,US,Americas,USD
+CUST_0400,Customer 0400,Yard,Bronze,MY,APAC,MYR
+CUST_0519,Customer 0519,Agent,Bronze,ES,Europe,EUR
+CUST_0027,Customer 0027,Operator,Gold,US,Americas,USD
+CUST_0626,Customer 0626,Owner,Bronze,GB,Europe,GBP
+CUST_0411,Customer 0411,Owner,Bronze,NO,Europe,NOK
+CUST_0316,Customer 0316,Owner,Bronze,GB,Europe,GBP
+CUST_0071,Customer 0071,Owner,Silver,NO,Europe,NOK
+CUST_0705,Customer 0705,Yard,Bronze,DE,Europe,EUR
+CUST_0047,Customer 0047,Operator,Gold,US,Americas,USD
+CUST_0592,Customer 0592,Operator,Bronze,SG,APAC,SGD
+CUST_0511,Customer 0511,Owner,Bronze,NO,Europe,NOK
+CUST_0380,Customer 0380,Yard,Bronze,MY,APAC,MYR
+CUST_0036,Customer 0036,Owner,Gold,GB,Europe,GBP
+CUST_0690,Customer 0690,Yard,Bronze,MY,APAC,MYR
+CUST_0148,Customer 0148,Ship Manager,Silver,CN,APAC,CNY
+CUST_0488,Customer 0488,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0535,Customer 0535,Yard,Bronze,DE,Europe,EUR
+CUST_0264,Customer 0264,Agent,Bronze,AE,MEA,AED
+CUST_0575,Customer 0575,Yard,Bronze,DE,Europe,EUR
+CUST_0378,Customer 0378,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0277,Customer 0277,Operator,Bronze,US,Americas,USD
+CUST_0544,Customer 0544,Agent,Bronze,AE,MEA,AED
+CUST_0196,Customer 0196,Owner,Silver,GB,Europe,GBP
+CUST_0127,Customer 0127,Operator,Silver,US,Americas,USD
+CUST_0013,Customer 0013,Ship Manager,Gold,NL,Europe,EUR
+CUST_0464,Customer 0464,Agent,Bronze,AE,MEA,AED
+CUST_0363,Customer 0363,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0573,Customer 0573,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0469,Customer 0469,Agent,Bronze,ES,Europe,EUR
+CUST_0563,Customer 0563,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0330,Customer 0330,Yard,Bronze,MY,APAC,MYR
+CUST_0236,Customer 0236,Owner,Silver,GB,Europe,GBP
+CUST_0198,Customer 0198,Ship Manager,Silver,CN,APAC,CNY
+CUST_0152,Customer 0152,Operator,Silver,SG,APAC,SGD
+CUST_0245,Customer 0245,Yard,Silver,DE,Europe,EUR
+CUST_0243,Customer 0243,Ship Manager,Silver,NL,Europe,EUR
+CUST_0713,Customer 0713,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0408,Customer 0408,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0086,Customer 0086,Owner,Silver,GB,Europe,GBP
+CUST_0562,Customer 0562,Operator,Bronze,SG,APAC,SGD
+CUST_0451,Customer 0451,Owner,Bronze,NO,Europe,NOK
+CUST_0146,Customer 0146,Owner,Silver,GB,Europe,GBP
+CUST_0325,Customer 0325,Yard,Bronze,DE,Europe,EUR
+CUST_0322,Customer 0322,Operator,Bronze,SG,APAC,SGD
+CUST_0545,Customer 0545,Yard,Bronze,DE,Europe,EUR
+CUST_0253,Customer 0253,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0485,Customer 0485,Yard,Bronze,DE,Europe,EUR
+CUST_0652,Customer 0652,Operator,Bronze,SG,APAC,SGD
+CUST_0276,Customer 0276,Owner,Bronze,GB,Europe,GBP
+CUST_0663,Customer 0663,Ship Manager,Bronze,NL,Europe,EUR
+CUST_0315,Customer 0315,Yard,Bronze,DE,Europe,EUR
+CUST_0078,Customer 0078,Ship Manager,Silver,CN,APAC,CNY
+CUST_0700,Customer 0700,Yard,Bronze,MY,APAC,MYR
+CUST_0103,Customer 0103,Ship Manager,Silver,NL,Europe,EUR
+CUST_0619,Customer 0619,Agent,Bronze,ES,Europe,EUR
+CUST_0167,Customer 0167,Operator,Silver,US,Americas,USD
+CUST_0134,Customer 0134,Agent,Silver,AE,MEA,AED
+CUST_0389,Customer 0389,Agent,Bronze,ES,Europe,EUR
+CUST_0666,Customer 0666,Owner,Bronze,GB,Europe,GBP
+CUST_0338,Customer 0338,Ship Manager,Bronze,CN,APAC,CNY
+CUST_0324,Customer 0324,Agent,Bronze,AE,MEA,AED
+CUST_0030,Customer 0030,Yard,Gold,MY,APAC,MYR
+CUST_0384,Customer 0384,Agent,Bronze,AE,MEA,AED
+CUST_0644,Customer 0644,Agent,Bronze,AE,MEA,AED
