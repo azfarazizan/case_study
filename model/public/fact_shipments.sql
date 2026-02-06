@@ -11,7 +11,7 @@ SELECT
     , s.order_amount_local
     , s.currency_code
     , fx.fx_to_usd
-    , s.order_amount_local * fx.fx_to_usd AS order_amount_usd
+    , s.order_amount_local * fx.fx_to_usd AS amount_usd
      
     , s.customer_care_calls
     , s.customer_rating

@@ -12,7 +12,7 @@ WITH base AS (
     , s.order_amount_local
     , s.currency_code
     , s.fx_to_usd
-    , s.order_amount_usd
+    , s.amount_usd
      
     , s.customer_care_calls
     , s.customer_rating
@@ -57,18 +57,17 @@ WITH base AS (
 
 )
 SELECT 
-	week
-	, account_tier
+	-- week
+	 account_tier
 	-- , total_is_on_time
 	-- , week_over_week_drop
 	, min(week_over_week_drop) as largest_drop_in_on_time
 FROM week_on_time_diff 
-GROUP BY week , account_tier,total_is_on_time
-ORDER BY min(week_over_week_drop) asc 
+GROUP BY  account_tier,total_is_on_time
+ORDER BY min(week_over_week_drop) asc limit 1
 
 
 ---Results---
-week	account_tier	largest_drop_in_on_time
-50	    Silver	          -228
-48	    Gold	          -204
-51	    Gold	          -160
+account_tier	largest_drop_in_on_time
+Silver	          -228
+
