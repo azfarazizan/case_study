@@ -67,6 +67,7 @@ This project transforms raw operational data into an analytics-ready dimensional
 - Replace invalid character in numeric field:  (assumption but would clarify with stakeholders if needed)
   ```sql
   REPLACE(order_amount_local, 'O', '0')
+- Renaming Column Reached.on.Time_Y.N --> reached_on_time_y_n
 ### 2. Customer tables
 - Have value but not column name
 - Update the column assume as currency_code (assumption but would clarify with stakeholders if needed)
