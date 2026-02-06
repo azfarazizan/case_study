@@ -63,17 +63,18 @@ This project transforms raw operational data into an analytics-ready dimensional
 
 ## Data Quality Fixes (Staging Layer)
 
-### 1. Shipments
+### 1. Shipments Table
 - Replace invalid character in numeric field:
   ```sql
   REPLACE(order_amount_local, 'O', '0')
-### 2. Fxrates
+### 2. Customer tables
+- Have value but not column name
+- Update the column assume as currency_code (assumption but would clarify with stakeholders if needed)
+### 3. Fxrates Table
 - Replace Replace invalid decimal separator:
   ```sql
     REPLACE(order_amount_local, 'O', '0')
-### 3. Customer
-- Have value but not column name
-- Update the column assume as currency_code (assumption but would clarify with stakeholders if needed)
+
 ### 4. Currency Normalization
 - Replace invalid character in numeric field:
   ```sql
